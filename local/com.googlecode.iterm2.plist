@@ -93,7 +93,7 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>205 321 924 485 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 59 1680 969 0 0 1680 1028 </string>
+	<string>0 301 1510 708 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>458 467 1415 1104 0 0 2560 1578 </string>
 	<key>New Bookmarks</key>
@@ -816,6 +816,8 @@
 			<string>/Users/anand</string>
 		</dict>
 	</array>
+	<key>NoSyncNeverRemindPrefsChangesCopy</key>
+	<true/>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
