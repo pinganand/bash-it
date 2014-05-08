@@ -511,14 +511,27 @@
 	<string></string>
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
+	<key>NSToolbar Configuration Terminal Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>1169 88 445 270 0 0 1680 1028 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>458 476 924 485 0 0 2560 1578 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1611 73 885 735 0 0 2560 1578 </string>
+	<string>0 628 1680 950 0 0 2560 1578 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>941 256 1495 840 0 0 2560 1578 </string>
+	<string>5 144 1675 1434 0 0 2560 1578 </string>
+	<key>NSWindow Frame iTerm Window 2</key>
+	<string>419 173 825 576 0 0 2560 1578 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1311,7 +1324,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-03-10T04:25:50Z</date>
+	<date>2014-05-03T18:51:30Z</date>
 	<key>SUSkippedVersion</key>
 	<string>1.0.0.20130622</string>
 	<key>SavePasteHistory</key>
